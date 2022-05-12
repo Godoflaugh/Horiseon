@@ -8,3 +8,8 @@ Majority of work was done in cutting out redundant code. However left in code co
 Also hello grader! Thank you for looking at my code, I hope you have a good day!
 
 
+![Screenshot2](https://user-images.githubusercontent.com/3208213/168179372-da4ef792-9077-41d6-b924-a0681b1256f6.PNG)
+
+
+
+![Screenshot1](https://user-images.githubusercontent.com/3208213/168179387-9b8b6a1e-f019-47bc-bfb2-dbfd60cc3de0.PNG)
